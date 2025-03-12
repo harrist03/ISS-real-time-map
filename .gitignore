@@ -1,0 +1,20 @@
+.vscode/
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Logs
+*.log
+logs/
+
+# Compiled class file
+target/
+*.class
